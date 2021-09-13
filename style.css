@@ -1,12 +1,13 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
+    font-size: 25px;    
+    color: purple;
     background-color: #ff59db;
 }
 
 h1, h2 {
     font-family: 'Comic Sans M', cursive, sans-serif;
-    color: pink;
+    color: blue;
 }
 
 ul {
@@ -22,5 +23,5 @@ ul {
 }
 
 .body {
-    color: purple;
+    text-align: center;
 }
