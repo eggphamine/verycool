@@ -25,3 +25,16 @@ ul {
 .body {
     text-align: center;
 }
+
+.about {
+    font-family: 'Comic Sans M', cursive, sans-serif;
+    text-shadow: 2px 2px 4px white;
+    color:#ff59db;
+    background-image: url('blueflame.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 800px;
+    height: 500px;
+    margin: 0 auto;
+
+}
