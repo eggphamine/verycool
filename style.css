@@ -1,0 +1,26 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color: #ff59db;
+}
+
+h1, h2 {
+    font-family: 'Comic Sans M', cursive, sans-serif;
+    color: pink;
+}
+
+ul {
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+}
+
+.body {
+    color: purple;
+}
